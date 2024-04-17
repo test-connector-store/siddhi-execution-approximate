@@ -1,0 +1,19 @@
+{
+    "name": "approximate",
+    "owner": "WSO2",
+    "category": "Siddhi Execution",
+    "documentationUrl": "https://wso2-extensions.github.io/siddhi-execution-approximate/",
+    "description": "The siddhi-execution-approximate is an extension to Siddhi that performs approximate computing on event streams.",
+    "status": "Active",
+    "labels": [
+        "siddhi",
+        "siddhi-execution",
+        "approximate"
+    ],
+    "releases": [
+        {
+            "tagName": "1.1.1",
+            "products": []
+        }
+    ]
+}
